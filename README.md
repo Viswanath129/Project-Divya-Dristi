@@ -9,7 +9,7 @@
 
 ## Dashboard
 
-**Live Dashboard**: [https://cg2svnbsfiad6.kimi.page](https://cg2svnbsfiad6.kimi.page)
+**Live Dashboard**: 
 
 The interactive web dashboard provides:
 - Satellite data upload (.nc, .h5 files)
