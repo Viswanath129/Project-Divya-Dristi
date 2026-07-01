@@ -9,7 +9,7 @@
 
 ## Dashboard
 
-**Live Dashboard**: 
+**Live Dashboard**: https://project-divya-dristi-730835137043.us-central1.run.app/
 
 The interactive web dashboard provides:
 - Satellite data upload (.nc, .h5 files)
